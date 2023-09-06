@@ -5,7 +5,7 @@ const initialState = {
     error: "",
     user: {
         id: "",
-        name: "",
+        name: "higor chaves",
         email: "",
         picture: "",
         status: "",
